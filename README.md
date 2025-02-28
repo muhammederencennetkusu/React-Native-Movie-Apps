@@ -67,7 +67,15 @@ API_KEY=YOUR_API_KEY_HERE
 Ardından, bu anahtarı kullanabilmek için **react-native-dotenv** paketini kullanabilirsiniz.
 
 ## 📸 Ekran Görüntüleri
-![Movies List](https://via.placeholder.com/400x800)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/homeScreen.png?raw=true" width="250">
+    <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/moviesDetails.png?raw=true" width="250">
+    <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/moviesFirst.png?raw=true" width="250">
+    <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/moviesSlide.png?raw=true" width="250">
+</div>
+
+
 ![Movie Details](https://via.placeholder.com/400x800)
 
 ## 🎥 Uygulama Tanıtım Videosu
