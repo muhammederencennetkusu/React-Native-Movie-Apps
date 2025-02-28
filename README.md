@@ -81,7 +81,7 @@ Ardından, bu anahtarı kullanabilmek için **react-native-dotenv** paketini kul
 
 
 ## 🎥 Uygulama Tanıtım Videosu
-[![Kurulum ve Kullanım Videosu][(https://img.youtube.com/vi/P4C3GLwAUa0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P4C3GLwAUa0)](https://www.youtube.com/watch?v=P4C3GLwAUa0)
+[(https://img.youtube.com/vi/P4C3GLwAUa0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P4C3GLwAUa0)](https://www.youtube.com/watch?v=P4C3GLwAUa0)
 
 
 ## 🐛 Karşılaşılan Sorunlar ve Çözümler
