@@ -70,6 +70,10 @@ Ardından, bu anahtarı kullanabilmek için **react-native-dotenv** paketini kul
 ![Movies List](https://via.placeholder.com/400x800)
 ![Movie Details](https://via.placeholder.com/400x800)
 
+## 🎥 Uygulama Tanıtım Videosu
+[![Kurulum ve Kullanım Videosu][(https://img.youtube.com/vi/P4C3GLwAUa0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P4C3GLwAUa0)](https://www.youtube.com/watch?v=P4C3GLwAUa0)
+
+
 ## 🐛 Karşılaşılan Sorunlar ve Çözümler
 **1️⃣ Gradle ve Kütüphane Uyumsuzlukları**
 - Eğer Gradle ile ilgili bir hata alıyorsanız, `android/build.gradle` dosyanızı kontrol edip doğru Gradle sürümünü kullandığınızdan emin olun.
