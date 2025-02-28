@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Top Gun: Maverick",
+      "time": "2s 11dk",
+      "category": "Aksiyon",
+      "title": "Top Gun: Maverick, pilot Pete “Maverick” Mitchell'in hava kuvvetlerine geri dönüşü sonrası yaşananlara odaklanıyor.",
+      "image": "https://tr.web.img2.acsta.net/c_310_420/pictures/22/05/23/12/43/0003377.jpg",
+      "star": 4.5,
+      "video": "https://imdb-video.media-imdb.com/vi632472089/1434659607842-pgv4ql-1648562542211.mp4?Expires=1740679510&Signature=nV~YAtELwhkDrQ3R2QcrPxd9E4SsfxUCJwmko88TCzUU1MD2kpbi9uWRQNVF5WYWFNFczWp6eLDwPeJGEreLU0Pg3nlVu3NHxD8pqErTEpLwK8f095NTfeRB6uq7k5jDDsrxdN~It8EKpZYFBg2vFSkISHEm3jsdHfXx4IJdJaXETwoBnqSam~8NuaLHoXHI-OHG51sNfhws~boc-tEy74-q6DplkfrthzAqFGNbQXMnRfnDk8JbLKl1B9onPoT09PIKZRMfSLcAIHlQgLRS~AOkWZyK7uLhw~DwaIjXrLbHz8CV9rlr8etngj9yewYuHsAoFud-opT5SSmnq6egYg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "director": "Joseph Kosinski",
+      "casts": [
+        {"name": "Tom Cruise"},
+        {"name": "Miles Teller"},
+        {"name": "Jennifer Connelly"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jurassic World: Hakimiyet",
+      "time": "2s 26dk",
+      "category": "Bilim Kurgu",
+      "title": "Jurassic World: Hakimiyet, ikinci film sonunda tutuldukları yerden dünyaya yayılarak hayatta kalmayı başaran dinozorlarla insanların tarihte ilk defa bir arada yaşadığı bir dönemi anlatıyor.",
+      "image": "https://tr.web.img3.acsta.net/c_310_420/pictures/22/04/29/10/46/0161380.jpg",
+      "star": 3,
+      "director": "Colin Trevorrow",
+      "casts": [
+        {"name": "Chris Pratt"},
+        {"name": "Bryce Dallas Howard"},
+        {"name": "Laura Dern"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mutlu Oyuncak Dükkanı",
+      "time": "1s 20dk",
+      "category": "Animasyon",
+      "title": "Mutlu Oyuncak Dükkanı, bir arkadaşına yardım etmeye çalışan Kıpır'ın hikayesini konu ediyor.",
+      "image": "https://tr.web.img3.acsta.net/c_310_420/pictures/22/06/13/17/27/0783178.jpg",
+      "star": 5,
+      "director": "H. Sinan Güngör, Semih Turalı",
+      "casts": [
+        {"name": "Elif Gizem Aykul"},
+        {"name": "Hakan Coşar"},
+        {"name": "Elifcan Kamiloğlu"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Doktor Strange: Çoklu Evren Çılgınlığında",
+      "time": "2s 6dk",
+      "category": "Fantastik",
+      "title": "Doktor Strange: Çoklu Evren Çılgınlığında, eski ve yeni mistik müttefiklerinin yardımıyla bilinmeyene yolculuk eden Doktor Strange'in macerlarını konu ediyor.",
+      "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/22/05/05/14/02/4321698.jpg",
+      "star": 4,
+      "director": "Sam Raimi",
+      "casts": [
+        {"name": "Benedict Cumberbatch"},
+        {"name": "Elizabeth Olsen"},
+        {"name": "Chiwetel Ejiofor"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Issız Ev",
+      "time": "1s 28dk",
+      "category": "Korku",
+      "title": "Issız Ev, hafta sonu kaçamağı yapmak için ev kiralayan iki çiftin başına gelen korkunç olayları konu ediyor.",
+      "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/22/05/31/10/28/5521387.jpg",
+      "star": 2,
+      "director": "Dave Franco",
+      "casts": [
+        {"name": "Dan Stevens"},
+        {"name": "Alison Brie"},
+        {"name": "Sheila Vand"}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Afacanlar: İş Başa Düştü",
+      "time": "1s 26dk",
+      "category": "Aile",
+      "title": "Afacanlar: İş Başa Düştü, sabaha kadar oyun oynamak için gittikleri AVM'ye giren hırsızlarla büyük bir mücadeleye girişen bir grup çocuğun hikayesini konu ediyor.",
+      "image": "https://tr.web.img2.acsta.net/c_310_420/pictures/22/01/21/08/01/4754829.jpg",
+      "star": 3.5,
+      "director": "Enes Ateş",
+      "casts": [
+        {"name": "Berat Efe Parlar"},
+        {"name": "Gürgen Öz"},
+        {"name": "Burak Hakkı"}
+      ]
+    }
+  ]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Doktor Strange: Çoklu Evren Çılgınlığında",
+        "time": "2s 6dk",
+        "category": "Fantastik",
+        "title": "Doktor Strange: Çoklu Evren Çılgınlığında, eski ve yeni mistik müttefiklerinin yardımıyla bilinmeyene yolculuk eden Doktor Strange'in macerlarını konu ediyor.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/22/05/05/14/02/4321698.jpg",
+        "star": 4,
+        "director": "Sam Raimi",
+        "casts": [
+          {"name": "Benedict Cumberbatch"},
+          {"name": "Elizabeth Olsen"},
+          {"name": "Chiwetel Ejiofor"}
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Issız Ev",
+        "time": "1s 28dk",
+        "category": "Korku",
+        "title": "Issız Ev, hafta sonu kaçamağı yapmak için ev kiralayan iki çiftin başına gelen korkunç olayları konu ediyor.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/22/05/31/10/28/5521387.jpg",
+        "star": 2,
+        "director": "Dave Franco",
+        "casts": [
+          {"name": "Dan Stevens"},
+          {"name": "Alison Brie"},
+          {"name": "Sheila Vand"}
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Afacanlar: İş Başa Düştü",
+        "time": "1s 26dk",
+        "category": "Aile",
+        "title": "Afacanlar: İş Başa Düştü, sabaha kadar oyun oynamak için gittikleri AVM'ye giren hırsızlarla büyük bir mücadeleye girişen bir grup çocuğun hikayesini konu ediyor.",
+        "image": "https://tr.web.img2.acsta.net/c_310_420/pictures/22/01/21/08/01/4754829.jpg",
+        "star": 3.5,
+        "director": "Enes Ateş",
+        "casts": [
+          {"name": "Berat Efe Parlar"},
+          {"name": "Gürgen Öz"},
+          {"name": "Burak Hakkı"}
+        ]
+      }
+    ]
