@@ -13,6 +13,7 @@ Bu proje, **React Native** ile geliştirilmiş bir film keşif uygulamasıdır. 
 - **react-native-modals** (Özel modal pencereler)
 - **react-native-vector-icons** (Özel ikonlar)
 - **FontAwesome5** (Font tabanlı ikon desteği)
+- **Laravel** (Backend ve veritabanı yönetimi)
 
 ## 📂 Kurulum
 Projeyi çalıştırmak için aşağıdaki adımları takip edin:
@@ -22,12 +23,34 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edin:
 npm install
 ```
 
-### 2️⃣ Android için Derleme
+### 2️⃣ Laravel Backend Kurulumu
+#### Laravel Bağımlılıklarını Yükleme
+```bash
+cd backend
+composer install
+```
+
+#### .env Dosyası ve Veritabanı Ayarları
+`.env` dosyanızın aşağıdaki gibi olduğundan emin olun:
+```env
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=movie_app
+DB_USERNAME=root
+DB_PASSWORD=
+```
+Ardından veritabanını oluşturun ve migrate işlemini gerçekleştirin:
+```bash
+php artisan migrate
+```
+
+### 3️⃣ Android için Derleme
 ```bash
 npx react-native run-android
 ```
 
-### 3️⃣ iOS için Derleme (Mac Kullanıcıları İçin)
+### 4️⃣ iOS için Derleme (Mac Kullanıcıları İçin)
 ```bash
 cd ios
 pod install
