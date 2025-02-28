@@ -72,8 +72,9 @@ Ardından, bu anahtarı kullanabilmek için **react-native-dotenv** paketini kul
     <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/homeScreen.png?raw=true" width="250">
     <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/moviesDetails.png?raw=true" width="250">
     <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/moviesFirst.png?raw=true" width="250">
+    <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/movieList.png?raw=true" width="250">
     <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/moviesSlide.png?raw=true" width="250">
-       <img src="https://github.com/muhammederencennetkusu/React-Native-Movie-Apps/blob/main/AppScreen/movieList.png?raw=true" width="250">
+    
 </div>
 
 
