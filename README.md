@@ -78,7 +78,7 @@ Ardından, bu anahtarı kullanabilmek için **react-native-dotenv** paketini kul
 </div>
 
 
-![Movie Details](https://via.placeholder.com/400x800)
+
 
 ## 🎥 Uygulama Tanıtım Videosu
 [![Kurulum ve Kullanım Videosu][(https://img.youtube.com/vi/P4C3GLwAUa0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P4C3GLwAUa0)](https://www.youtube.com/watch?v=P4C3GLwAUa0)
